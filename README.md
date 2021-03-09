@@ -1,5 +1,6 @@
 # quasar-tiptap
 
+
 A modern WYSIWYG rich-text editor built on top of [tiptap](https://github.com/scrumpy/tiptap) and [Quasar Framework](https://github.com/quasarframework) for Vue.js.
 
 [![](https://img.shields.io/npm/v/quasar-tiptap.svg?label=version)](https://www.npmjs.com/package/quasar-tiptap)
@@ -253,4 +254,5 @@ A todo list will be shown in [QuasarTiptap Project](https://github.com/donotebas
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/donotebase/quasar-tiptap/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File]
+(https://github.com/donotebase/quasar-tiptap/blob/master/LICENSE) for more information.
